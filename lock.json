@@ -1,0 +1,21 @@
+{
+    "memo": "20691768f93390d8bae7c29c4ca83783f3f3d01138e9094d42500c197a9a90a3",
+    "projects": [
+        {
+            "name": "github.com/namsral/flag",
+            "version": "v1.7.4-pre",
+            "revision": "71ceffbeb0ba60fccc853971bb3ed4d7d90bfd04",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/pkg/errors",
+            "version": "v0.8.0",
+            "revision": "645ef00459ed84a119197bfb8d8205042c6df63d",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
